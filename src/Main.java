@@ -58,6 +58,7 @@ public class Main {
             //goblin and human encounter // attack method
             if(larry.getRow() == larry.getRow() && larry.getCol() == larry.getCol()){
                 System.out.println("The human, named Larry, has collided with Gary, the Goblin!");
+            }else {
 
             }
 
